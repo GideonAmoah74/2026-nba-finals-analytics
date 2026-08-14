@@ -206,12 +206,9 @@ Used to organize, document, and publish the complete analytics project.
 
 ## Interactive Power BI Dashboard
 
-**Interactive dashboard link:**
-`Coming soon`
+Explore the full interactive Power BI dashboard here:
 
-This link will be updated after the Power BI report is published online.
-
----
+[View the Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjRiNDMzYjEtZjcyMy00YmM4LTg4YTgtNGZjNjEyZTI2NTM2IiwidCI6IjE3MGJiYWJkLWEyZjAtNGM5MC1hZDRiLTBlOGYwZjBjNDI1OSIsImMiOjN9&pageName=41391ff7f25d0e243762)
 
 ## Full Project Report
 
