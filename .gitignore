@@ -11,6 +11,5 @@ __pycache__/
 # macOS
 .DS_Store
 
-# Output files
+# Output cache files
 outputs/__pycache__/
-.venv/
